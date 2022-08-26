@@ -1,3 +1,7 @@
 rootProject.name = 'demo'
 include 'SampleAPI'
+include 'core'
+include 'db-migrate'
+include 'data-jooq'
+include 'data-jooq'
 
